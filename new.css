@@ -1,0 +1,63 @@
+.container {
+    background-image: url(url);
+}
+body {
+}
+body h1 {
+    font-family: averia-gruesa-libre;
+    font-style:oblique;
+    font-weight: 1000;
+    text-align: center;
+    text-indent: 0px;
+	
+
+
+}
+body h2 {
+    font-family: averia-gruesa-libre;
+    font-style:oblique;
+    font-weight: 1000;
+    text-align: center;
+}
+body p {
+    text-align: center;
+    font-family: architects-daughter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+
+}
+.col-xl-5.offset-xl-4 {
+    border-style: ridge;
+    border-radius: 21px;
+    border-width: thick;
+
+    background-image: url(images/Schokolade
+%20Oreo%20Donuts%20_%20Bake%20to%20the%20roots%20(1).jpeg);
+    background-image: url(images/Almond%20Croissants.jpeg);
+}
+.col-xl-5.offset-xl-4 .form-group label {
+    color: #F8EDED;
+}
+.col-xl-5.offset-xl-4 .form-group #emailHelp1 {
+    color: #FFFFFF;
+}
+.col-xl-5.offset-xl-4 .form-check .form-check-label {
+    color: #D1D0D0;
+}
+.col-xl-5.offset-xl-4 {
+    height: 350px;
+    width: 800px;
+}
+.bg-dark.text-white.pt-5.pb-3 .bg-secondary.text-center.py-3.mt-4 .mb-0 {
+    background-color: #3A3A3A;
+}
+.card .card-body .btn.btn-primary {
+    background-color: #FFC107;
+}
+#navbarSupportedContent .form-inline.my-2.my-lg-0 .form-control.mr-sm-2 {
+}
+#navbarSupportedContent .form-inline.my-2.my-lg-0 .form-control.mr-sm-2 {
+    background-color: #FFC107;
+    color: #FFFFFF;
+}
